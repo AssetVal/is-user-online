@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "dayjs": "./dayjs.js",
+    "dayjs/plugin/relativeTime": "./dayjs/plugin/relativeTime.js",
+    "socket.io-client": "./socket.io-client.js"
+  }
+}
